@@ -1,2 +1,4 @@
 # Ignorar el archivo df_tracks_lyrics.json
 data/df_tracks_lyrics.json
+data/df_lyrics_clean.json
+data/embeddings_train.pkl
